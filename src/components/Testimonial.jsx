@@ -8,7 +8,7 @@ const Testimonial = () => {
     <div className="
   w-[90%]               /* takes 90% width on mobile */
   max-w-2xl             /* limits width on large screens */
-  mb-10
+  mb-10 
   bg-white
   rounded
   shadow-2xl
@@ -17,7 +17,9 @@ const Testimonial = () => {
   sm:w-[80%]            /* tablet: 80% width */
   md:w-[60%]            /* medium screens: 60% width */
   lg:w-[45%]            /* large screens: 45% width */
-  h-auto                /* let height adjust automatically */
+  sm:h-[80%]            /* tablet: 80% width */
+  md:h-[60%]            /* medium screens: 60% width */
+  lg:h-[45%]            /* large screens: 45% width */
 ">
   <Card user={Users} />
 </div>

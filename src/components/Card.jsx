@@ -24,9 +24,9 @@ const Card = (props) => {
     }
 
     return (
-        <div className="h-auto w-auto">
+        <div >
             {/* Image section */}
-            <div className="flex absolute md:top-24 top-34 left-1/2 -translate-x-1/2">
+            <div className="flex absolute md:top-24 top-35 left-1/2 -translate-x-1/2">
                 <img
                     src={user[index].image}
                     alt=""
