@@ -1,16 +1,32 @@
-# React + Vite
+# 🌟 Testimonial Slider
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and visually appealing **Testimonial Slider** built using **React + Vite**.  
+It displays user testimonials with smooth transitions, a clean UI, and fully responsive design for all devices.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [https://testimonial-slider-beige.vercel.app/](https://testimonial-slider-beige.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎞️ Smooth testimonial sliding animations  
+- 📱 Fully responsive (mobile-friendly layout)  
+- 🧩 Built with **React + Vite** for blazing-fast performance  
+- 💅 Styled with **Tailwind CSS** for modern, clean UI  
+- 🧠 Organized component structure  
+- ⚡ Fast development and optimized production build  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Frontend** | React 18 (Vite) |
+| **Styling** | Tailwind CSS |
+| **Deployment** | Vercel |
+
+---
+
+## 📂 Folder Structure
+
